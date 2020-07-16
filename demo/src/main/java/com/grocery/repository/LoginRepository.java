@@ -6,7 +6,7 @@ import org.springframework.stereotype.Repository;
 public class LoginRepository {
 
 	public String sayHello() {
-		return "Hello Guys!!!! Welcome sinu";
+		return "Hello Guys!!!! Welcome sinu1";
 		
 	}
 
