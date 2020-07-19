@@ -6,8 +6,6 @@ import org.springframework.stereotype.Repository;
 public class LoginRepository {
 
 	public String sayHello() {
-		return "Hello Guys ... !*Welcome to Grocery Store..*!";
-		
+		return "Hello Guys ... !*Welcome to Grocery Store..*! === Best Place to buy the grocery items";
 	}
-
 }
